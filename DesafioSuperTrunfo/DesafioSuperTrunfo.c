@@ -13,6 +13,7 @@ int main() {
     int pontosturisticos1 = 9;
 
     printf("Desafio Super Trunfo Nível Novato \n");
+    
     printf("\nCadastro Básico: \n");
 
     // Entrada dos dados da primeira carta
