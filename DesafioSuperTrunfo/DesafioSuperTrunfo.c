@@ -12,7 +12,8 @@ int main() {
     float pib1 = 21374;
     int pontosturisticos1 = 9;
 
-    printf("Desafio Super Trunfo Nível Novato: \n");
+    printf("Desafio Super Trunfo Nível Novato \n");
+    printf("\nCadastro Básico: \n");
 
     // Entrada dos dados da primeira carta
 
