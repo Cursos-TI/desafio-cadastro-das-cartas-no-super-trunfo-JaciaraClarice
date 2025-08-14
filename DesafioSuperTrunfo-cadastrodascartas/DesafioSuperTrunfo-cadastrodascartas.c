@@ -32,13 +32,13 @@ int main () {
     printf("Cadastro da primeira carta:\n");
 
     printf("Código da carta: ");
-    scanf("%s", &codigodacarta1);
+    scanf("%s", codigodacarta1);
 
-    printf("Estado: ");
-    scanf("%s", &estado1);
+    printf("Estado A - H: ");
+    scanf("%s", estado1);
 
     printf("Nome da cidade: ");
-    scanf("%s", &nomedacidade1);
+    scanf("%s", nomedacidade1);
 
     printf("Populacão: ");
     scanf("%d", &populacao1);
@@ -57,13 +57,13 @@ int main () {
     printf("\nCadastro da segunda carta:\n");
 
     printf("Código da carta: ");
-    scanf("%s", &codigodacarta2);
+    scanf("%s", codigodacarta2);
 
-    printf("Estado: ");
-    scanf("%s", &estado2);
+    printf("Estado A - H: ");
+    scanf("%s", estado2);
 
     printf("Nome da cidade: ");
-    scanf("%s", &nomedacidade2);
+    scanf("%s", nomedacidade2);
 
     printf("População: ");
     scanf("%d", &populacao2);
